@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right, rgba(233, 31, 31), rgb(223, 73, 73),rgb(202, 85, 85),rgb(246, 221, 221), rgb(202, 85, 85),rgb(223, 73, 73),rgba(233, 31, 31));
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+
+  .caja1{
+
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+  }
+  .caja1:hover{
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+  }  
